@@ -1,0 +1,29 @@
+id,title,year,venue,family,primary_tasks,status,url
+P01,Optimal-Transport Analysis of Single-Cell Gene Expression Identifies Developmental Trajectories in Reprogramming,2019,Cell,optimal_transport,T1|T2,peer_reviewed,https://doi.org/10.1016/j.cell.2019.01.006
+P02,TrajectoryNet: A Dynamic Optimal Transport Network for Modeling Cellular Dynamics,2020,ICML,neural_ode,T1|T2,peer_reviewed,https://proceedings.mlr.press/v119/tong20a.html
+P03,scNODE: generative model for temporal single cell transcriptomic data prediction,2024,Bioinformatics,vae_neural_ode,T1,peer_reviewed,https://pmc.ncbi.nlm.nih.gov/articles/PMC11373355/
+P04,Mapping cells through time and space with moscot,2025,Nature,optimal_transport,T1|T2,peer_reviewed,https://doi.org/10.1038/s41586-024-08453-2
+P05,CellRank 2: unified fate mapping in multiview single-cell data,2024,Nature Methods,fate_mapping,T1,peer_reviewed,https://doi.org/10.1038/s41592-024-02303-9
+P06,Deep generative modeling for single-cell transcriptomics,2018,Nature Methods,variational_inference,T1|T2|T3,peer_reviewed,https://doi.org/10.1038/s41592-018-0229-2
+P07,GENOT: Entropic Gromov-Wasserstein Flow Matching with Applications to Single-Cell Genomics,2024,NeurIPS,flow_matching,T1|T2,peer_reviewed,https://arxiv.org/abs/2310.09254
+P08,E(n) Equivariant Graph Neural Networks,2021,ICML,equivariant_gnn,T2,peer_reviewed,https://proceedings.mlr.press/v139/satorras21a.html
+P09,Learning single-cell perturbation responses using neural optimal transport,2023,Nature Methods,optimal_transport,T3,peer_reviewed,https://doi.org/10.1038/s41592-023-01969-x
+P10,Predicting cellular responses to complex perturbations in high-throughput screens,2023,Molecular Systems Biology,compositional_autoencoder,T3,peer_reviewed,https://doi.org/10.15252/msb.202211517
+P11,Predicting transcriptional outcomes of novel multigene perturbations with GEARS,2024,Nature Biotechnology,graph_neural_network,T3,peer_reviewed,https://doi.org/10.1038/s41587-023-01905-6
+P12,Dissecting cell identity via network inference and in silico gene perturbation,2023,Nature,gene_regulatory_network,T3,peer_reviewed,https://doi.org/10.1038/s41586-022-05688-9
+P13,Transfer learning enables predictions in network biology,2023,Nature,foundation_model,T1|T3,peer_reviewed,https://doi.org/10.1038/s41586-023-06139-9
+P14,scGPT: toward building a foundation model for single-cell multi-omics using generative AI,2024,Nature Methods,foundation_model,T1|T2|T3,peer_reviewed,https://doi.org/10.1038/s41592-024-02201-0
+P15,Large-scale foundation model on single-cell transcriptomics,2024,Nature Methods,foundation_model,T1|T2|T3,peer_reviewed,https://doi.org/10.1038/s41592-024-02305-7
+P16,Universal Cell Embeddings: A Foundation Model for Cell Biology,2024,bioRxiv,foundation_model,T1|T2|T3,preprint,https://doi.org/10.1101/2023.11.28.568918
+P17,Deep-learning-based gene perturbation effect prediction does not yet outperform simple linear baselines,2025,Nature Methods,benchmark,T3,peer_reviewed,https://doi.org/10.1038/s41592-025-02772-6
+P18,Systema: a framework for evaluating genetic perturbation response prediction beyond systematic variation,2025,Nature Biotechnology,benchmark,T3,peer_reviewed,https://doi.org/10.1038/s41587-025-02777-8
+P19,Predicting cellular responses to perturbation across diverse contexts with State,2025,bioRxiv,foundation_model,T3,preprint,https://doi.org/10.1101/2025.06.26.661135
+P20,scMix: learning temporal dynamics of gene expression under irregular time intervals,2026,Bioinformatics,sequence_model,T1,peer_reviewed,https://doi.org/10.1093/bioinformatics/btag080
+P21,Manifold Interpolating Optimal-Transport Flows for Trajectory Inference,2022,NeurIPS,neural_ode,T1|T2,peer_reviewed,https://proceedings.neurips.cc/paper/2022/hash/bfc03f077688d8885c0a9389d77616d0-Abstract-Conference.html
+P22,scGen predicts single-cell perturbation responses,2019,Nature Methods,variational_autoencoder,T3,peer_reviewed,https://doi.org/10.1038/s41592-019-0494-8
+P23,Causal identification of single-cell experimental perturbation effects with CINEMA-OT,2023,Nature Methods,causal_optimal_transport,T3,peer_reviewed,https://doi.org/10.1038/s41592-023-02040-5
+P24,Benchmarking algorithms for generalizable single-cell perturbation response prediction,2025,Nature Methods,benchmark,T3,peer_reviewed,https://doi.org/10.1038/s41592-025-02980-0
+P25,MIOFlow 2.0: A unified framework for inferring cellular stochastic dynamics from single cell and spatial transcriptomics data,2026,arXiv,neural_ode,T1|T2,preprint,https://arxiv.org/abs/2603.22564
+P26,CisTransCell: Single-Cell Perturbation Prediction via Gene Function Regulatory Control and Cellular Context,2026,arXiv,graph_neural_network,T3,preprint,https://arxiv.org/abs/2606.13713
+P27,A Unified Geometric Framework for Developmental Analysis of Spatial Transcriptomic Data,2026,arXiv,geometric_modeling,T2,preprint,https://arxiv.org/abs/2608.15306
+P28,Modeling Temporal scRNA-seq Data with Latent Gaussian Process and Optimal Transport,2026,arXiv,gaussian_process,T1,preprint,https://arxiv.org/abs/2605.20989
